@@ -1,8 +1,8 @@
 ---
-title: "One Run Is Not Enough: How Much AI Agent Results Vary <br>in Data Science, an XGBoost Study"
+title: "One Run Is Not Enough: How Much AI Agent Results Vary <br>in Data Science, an XGBoost Optimization Study"
 ---
 
-## One Run Is Not Enough: How Much AI Agent Results Vary <br>in Data Science, an XGBoost Study
+## One Run Is Not Enough: How Much AI Agent Results Vary <br>in Data Science, an XGBoost Optimization Study
 
 #### by Szilard Pafka and Eduardo Ariño de la Rubia
 
