@@ -1,4 +1,8 @@
-## One Run Is Not Enough: How Much AI Agents Vary When Doing Data Science
+---
+title: "One Run Is Not Enough: How Much AI Agents Vary <br>When Doing Data Science"
+---
+
+## One Run Is Not Enough: How Much AI Agents Vary <br>When Doing Data Science
 
 #### by Szilard Pafka and Eduardo Ariño de la Rubia
 
