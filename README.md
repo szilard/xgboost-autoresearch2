@@ -1,4 +1,4 @@
-## One Run Is Not Enough: How Much AI Agents Vary When Doing Data Science
+## One Run Is Not Enough: How Much AI Agent Results Vary in Data Science, an XGBoost Study
 
 #### by Szilard Pafka and Eduardo Ariño de la Rubia
 
