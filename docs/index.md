@@ -20,7 +20,7 @@ The first plot shows the final holdout AUC of each run (higher is better; the st
 
 <img src="holdout_auc_pairwise.png" style="width: 700px">
 
-The second plot shows how often a single run would rank two LLMs wrong. For each pair of LLMs, it gives the probability that a randomly picked run of the better LLM beats a randomly picked run of the other one. Astra beats Luna in 96% of pairings, but Sol still beats Astra in about 24% of pairings, and Luna beats Sol in about 12%. So comparing two LLMs based on a single run each would give the wrong answer surprisingly often, even when one of them is clearly better on average.
+The second plot shows how often a single run would rank two LLMs wrong. For each pair of LLMs, it gives the probability that a randomly picked run of the better LLM beats a randomly picked run of the other one. Astra beats Luna in 96% of pairings, but Sol still beats Astra in about 24% of pairings, and Luna beats Sol in about 12%. These are point estimates from 10 runs per LLM; the grey bars in the plot show how uncertain they are. So comparing two LLMs based on a single run each would give the wrong answer surprisingly often, even when one of them is clearly better on average.
 
 <img src="holdout_auc_path_median.png" style="width: 700px">
 
